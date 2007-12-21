@@ -10,6 +10,7 @@ License:	GPL
 Group:		Development/Other
 Source:		ftp://code2html.sourceforge.net/pub/code2html/all/%{name}-%{version}.tar.bz2
 URL:		http://www.palfrader.org/code2html/
+BuildRoot:	%{_tmppath}/%{name}-buildroot
 Buildarch:	noarch
 
 %description
