@@ -1,6 +1,6 @@
 %define name code2html
 %define version 0.9.1
-%define release %mkrel 9
+%define release 10
 
 Summary:	Converts a program source code to syntax highlighted HTML
 Name:		%{name}
